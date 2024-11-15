@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 {
-  "firstName": "Jhay Ar",
-  "lastName": "De Juan",
-  "age": 21
+  "Fav Movie": "Marvels Avengers",
+  "Series": "Walking Dead",
+  "Anime": "One Piece",
 }
